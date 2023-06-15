@@ -1,5 +1,5 @@
 # OOP-System-Verilog
-Some simple examples of Object-Oriented Programming (OOP) concepts in System Verilog\
+Some simple examples of Object-Oriented Programming (OOP) concepts in System Verilog. The files are annotated with small notes about what is happening in the code. The comments are meant for quick reference or review. 
 
 Topics Covered
 * Classes/Constructors
